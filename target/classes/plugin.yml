@@ -1,0 +1,4 @@
+name: CustomDropMobs
+version: '1.0-SNAPSHOT'
+main: me.phantam.customdropmobs.CustomDropMobs
+api-version: '1.16'

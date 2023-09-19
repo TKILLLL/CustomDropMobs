@@ -1,0 +1,4 @@
+name: CustomDropMobs
+version: '${project.version}'
+main: me.phantam.customdropmobs.CustomDropMobs
+api-version: '1.16'

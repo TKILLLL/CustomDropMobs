@@ -1,0 +1,7 @@
+customdropmobs:
+  zombie:
+    DIAMOND: 1
+    GOLD_INGOT: 2
+  skeleton:
+    COMMAND: /give @p diamond 2
+    BONE: 4
